@@ -39,23 +39,9 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-12 border-t border-white/10 pt-8 text-center">
-  <p className="text-sm text-white/40">
-    © 2025 Grano Dublin. Concept redesign for demonstration purposes.
-  </p>
-
-  <p className="mt-3 text-xs text-white/50">
-    Website concept designed and developed by{" "}
-    <a
-      href="https://www.linkedin.com/in/YOUR-LINKEDIN"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="text-[#C8A25A] hover:underline"
-    >
-      Bhavika Sakhardande
-    </a>
-  </p>
-</div>
+        <div className="mt-12 border-t border-white/10 pt-8 text-sm text-white/40">
+          © 2025 Grano Dublin
+        </div>
       </div>
     </footer>
   );
