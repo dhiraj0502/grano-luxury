@@ -8,6 +8,7 @@ import MichelinRecognition from "@/components/MichelinRecognition";
 import Testimonials from "@/components/Testimonials";
 import ReservationCTA from "@/components/ReservationCTA";
 import Footer from "@/components/Footer";
+import ConceptBadge from "@/components/ConceptBadge";
 
 export default function Home() {
   return (
@@ -31,6 +32,8 @@ export default function Home() {
       <ReservationCTA />
 
       <Footer />
+
+      <ConceptBadge />
     </main>
   );
 }
