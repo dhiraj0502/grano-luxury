@@ -10,8 +10,7 @@ const dishes = [
   },
   {
     title: "Calabrian Seafood",
-    image:
-      "https://images.unsplash.com/photo-1563379091339-03246963d96c?w=1200&q=80"
+    image: "/images/seafood.jpg"
   },
   {
     title: "Seasonal Produce",
@@ -20,8 +19,7 @@ const dishes = [
   },
   {
     title: "Italian Dessert",
-    image:
-      "https://images.unsplash.com/photo-1563805042-7684c019e1cb?q=80&w=1200"
+    image: "/images/dessert.jpg"
   }
 ];
 
